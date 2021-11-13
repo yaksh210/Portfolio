@@ -334,7 +334,7 @@ header .navbar ul li a:hover{
     text-align: center;
     font-size: 2rem;
     color:#fff;
-    background: var(--yellow);
+    background: rgb(84, 84, 247);
 }
 
 .portfolio .box-container{
